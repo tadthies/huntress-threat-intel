@@ -1,0 +1,30 @@
+title: Tar Archive Extraction to Specified Location
+id: b45cebcf-96a8-402c-a369-eb48c608fe00
+status: experimental 
+description: Detects Tar.exe being used to extract a file to a specified location via the "-xf" flag to extract files and the "-C" flag to specify the target directory.
+author: Huntress Team
+references:
+  - https://www.securonix.com/blog/analysis-of-devpopper-new-attack-campaign-targeting-software-developers-likely-associated-with-north-korean-threat-actors/
+  - https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-apt29-cozy-bear-wineloader
+  - https://news.sophos.com/en-us/2025/01/21/sophos-mdr-tracks-two-ransomware-campaigns-using-email-bombing-microsoft-teams-vishing/
+date: 2026/02/24
+logsource:
+  category: process_creation
+  product: windows
+detection:
+  selection: 
+    OriginalFileName: 'bsdtar'
+    CommandLine|contains|all:
+      - '-xf'
+      - '-C'
+  condition: selection
+falsepositives:
+ - Legitimate administrative usage
+level: medium
+tags:
+  - attack.defense_evasion
+  - attack.collection
+  - attack.t1074.001
+  - attack.t1140
+  - attack.t1027
+  - attack.t1059.003
