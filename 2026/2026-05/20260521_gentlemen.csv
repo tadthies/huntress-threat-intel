@@ -1,0 +1,16 @@
+type,data,info
+description,https://www.huntress.com/blog/the-gentlemen-ransomware-defense-evasion-ttps, Indicators associated with a RaaS threat actor behind The Gentlemen
+sha256,f918535f974591ef031bd0f30a8171e3da27a6754e6426a8ba095f83195661c8,G_hlm7jj_windows_amd64.exe encryptor
+ip,193.233.202[.]17,C2 address used by malware payload
+ip:port,193.233.202.17:44729,C2 address used by malware payload
+ip:port,77.110.122[.]137:37182,C2 address used by malware payload
+ip,77.110.122[.]137,C2 address used by malware payload
+file_path_name,C:\Windows\Temp\svchost32.exe,Remote access trojan payload
+port,1081,listening port for RAT
+port,1085,listening port for RAT
+filename ,README-GENTLEMEN.txt,ransom note naming convention
+filename ,G_hlm7jj_windows_amd64.exe,encryptor filename
+sig:Defender,Trojan:Win32/MpTamperBulkExcl.H,Defender detection of PowerShell script tampering with antivirus exclusions
+sig:Defender,Ransom:Win64/Gentlemen.SH!MTB,Defender detection of Gentlemen ransomware
+sig:Defender,Ransom:Win64/BlackByte.SZ!MTB,Defender detection of win.exe
+workstation,WIN-8OA3CCQAE4D,malicious workstation name
