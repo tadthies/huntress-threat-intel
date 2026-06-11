@@ -1,0 +1,283 @@
+type,data,info
+description,https://www.huntress.com/blog/kali365-device-code-phishing-kit, Indicators associated with the Kali365 phishkit
+ip,34.87.147.59,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.9.20,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.33.215,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.41.76,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.61.193,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.71.155,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.130.102.216,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.0.54,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.1.118,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.2.231,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.3.58,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.5.194,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.9.204,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.30.4,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.40.210,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.44.102,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.45.240,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.49.221,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.51.96,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.52.235,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.56.141,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.57.11,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.60.143,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.60.226,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.131.63.254,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.135.128.56,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.135.138.59,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.135.144.55,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.135.168.153,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.2.249,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.7.146,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.11.147,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.12.20,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.18.172,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.21.150,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.23.10,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.33.28,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.33.118,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.53.222,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.59.231,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.66.46,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.67.95,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.72.91,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.79.181,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.81.24,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.87.19,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.153.100.178,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.2.149,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.12.44,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.16.226,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.21.165,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.28.242,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.32.47,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.42.252,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.44.160,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.47.176,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.50.222,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.51.193,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.60.162,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.62.86,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.64.101,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.64.133,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.65.163,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.67.99,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.71.214,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.72.99,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.80.139,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.82.209,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.84.24,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.88.63,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.90.64,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.108.91,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.157.118.80,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.159.171.69,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.173.64.0/18,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.165.1.42,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.166.139.181,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.166.203.164,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.166.211.243,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,43.166.212.81,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.141.209,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.142.193,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.166.31,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.168.193,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.169.90,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.202.230,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,49.51.203.63,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,64.7.198.10,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,65.38.120.24,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.55.210,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.121.57,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.218.217,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.226.76,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.230.6,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.232.182,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,162.62.233.174,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.76.156,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.106.217,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.107.226,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.116.24,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.119.249,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.141.49,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.176.195,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,170.106.186.18,IPv4 address known to host or have hosted a Kali365 phishkit
+ip,206.188.197.215,IPv4 address known to host or have hosted a Kali365 phishkit
+url_path,/tokens,Token vault — captured M365 sessions
+url_path,/lures,Phishing lure management
+url_path,/compose,B2B email sender via captured tokens
+url_path,/contacts,Email harvest%2C classify%2C verify
+url_path,/keywords,Mailbox keyword monitoring & alerts
+url_path,/domains,CF Workers%2C linked domains%2C marketplace
+url_path,/mfa,Org MFA scan / admin user management
+url_path,/import,Token import (paste / bulk)
+url_path,/live,Live send-job progress view
+url_path,/ai,AI email template generator
+url_path,/settings,Profile%2C 2FA%2C Telegram bot%2C branding
+url_path,/admin/clients,Client list UI — frontend alias%2C calls same /admin/users API
+url_path,/admin/agents,Agent/reseller management
+url_path,/admin/overview,Kali365 API call to GET request for Admin-level panel statistics
+url_path,/admin/users,Kali365 API call to GET request for List all panel users (clients)
+url_path,/admin/users/create,Kali365 API call to POST request for Create new panel user
+url_path,/admin/users/{id}/reset-password,Kali365 API call to POST request for Reset user's panel password
+url_path,/admin/users/{id}/delete,Kali365 API call to POST request for Delete panel user
+url_path,/admin/users/{id},Kali365 API call to GET request for Get single user detail
+url_path,/admin/users/{id}/extend,Kali365 API call to POST request for Extend user subscription (body: days)
+url_path,/admin/agents,Kali365 API call to GET request for List agents (resellers)
+url_path,/admin/agents/create,Kali365 API call to POST request for Create agent account
+url_path,/admin/agents/{id},Kali365 API call to GET request for Get single agent detail
+url_path,/admin/agents/{id}/update,Kali365 API call to POST request for Update agent settings
+url_path,/admin/agents/{id}/suspend,Kali365 API call to POST request for Suspend agent account
+url_path,/admin/agents/{id}/resume,Kali365 API call to POST request for Resume agent account
+url_path,/admin/agents/{id}/delete,Kali365 API call to POST request for Delete agent account
+url_path,/admin/billing/status,Kali365 API call to GET request for Account billing state
+url_path,/admin/billing/buy-slots,Kali365 API call to POST request for Purchase operator slots (body: count)
+url_path,/admin/billing/pay-invoice/{id},Kali365 API call to POST request for Pay a specific invoice
+url_path,/admin/billing/check-payment/{id},Kali365 API call to POST request for Verify payment status
+url_path,/agent/dashboard,Kali365 API call to GET request for Agent dashboard overview
+url_path,/agent/clients,Kali365 API call to GET request for List agent's client accounts
+url_path,/agent/clients/create,Kali365 API call to POST request for Create client under this agent
+url_path,/agent/clients/{id}/update,Kali365 API call to POST request for Update client settings
+url_path,/agent/clients/{id}/extend,Kali365 API call to POST request for Extend client subscription (days)
+url_path,/dash/auth,Kali365 API call to POST request for Login — username + password
+url_path,/dash/auth/2fa,Kali365 API call to POST request for Submit 2FA code post-login
+url_path,/dash/forgot-password,Kali365 API call to POST request for Step 1 password reset (body: {username}); delivers 6-digit code via Telegram
+url_path,/dash/reset-password,Kali365 API call to POST request for Step 2 password reset (body: {username&#x2c; code&#x2c; new_password})
+url_path,/dash/branding,Kali365 API call to GET request for Panel branding (name&#x2c; theme)
+url_path,/dash/me,Kali365 API call to GET request for Current user profile
+url_path,/dash/me/update,Kali365 API call to POST request for Update display name&#x2c; Telegram bot token/chat ID
+url_path,/dash/me/referral,Kali365 API call to GET request for Referral code & stats
+url_path,/dash/me/2fa/setup,Kali365 API call to POST request for Initiate TOTP 2FA setup
+url_path,/dash/me/2fa/verify,Kali365 API call to POST request for Verify 2FA code
+url_path,/dash/me/2fa/disable,Kali365 API call to POST request for Disable 2FA (requires password)
+url_path,/dash/me/api-keys,Kali365 API call to GET request for List operator API keys
+url_path,/dash/me/api-keys,Kali365 API call to POST request for Create API key
+url_path,/dash/me/api-keys/test,Kali365 API call to POST request for Validate an API key
+url_path,/dash/me/referral/pending,Kali365 API call to GET request for List pending referral approvals
+url_path,/dash/me/referral/approve/{id},Kali365 API call to POST request for Approve referral
+url_path,/dash/me/referral/reject/{id},Kali365 API call to POST request for Reject referral
+url_path,/dash/me/referral/claim,Kali365 API call to POST request for Claim referral reward
+url_path,/dash/overview,Kali365 API call to GET request for Dashboard summary stats
+url_path,/dash/stats,Kali365 API call to GET request for Capture & send statistics
+url_path,/dash/activity,Kali365 API call to GET request for Panel activity feed
+url_path,/dash/admin/system-health,Kali365 API call to GET request for System health status
+url_path,/dash/server-info,Kali365 API call to GET request for Server information
+url_path,/dash/system-bot-links,Kali365 API call to GET request for Telegram bot link config
+url_path,/dash/admin/config,Kali365 API call to GET request for Panel admin config (geo proxy&#x2c; etc.)
+url_path,/dash/admin/config,Kali365 API call to POST request for Update panel config (geo_proxy_enabled&#x2c; geo_proxy_url)
+url_path,/dash/plans,Kali365 API call to GET request for Available subscription plans
+url_path,/dash/renew,Kali365 API call to POST request for Renew subscription (body: plan_id)
+url_path,/dash/renewal-status/{id},Kali365 API call to GET request for Poll renewal status
+url_path,/dash/renew-pay/{reg_id},Kali365 API call to GET request for Hosted payment page opened via window.open — not a JSON API
+url_path,/dash/tokens,Kali365 API call to GET request for List all captured tokens (M365 sessions)
+url_path,/dash/tokens?search=&limit=,Kali365 API call to GET request for Server-side filtered token list
+url_path,/dash/token/{id}/raw,Kali365 API call to GET request for Raw token JSON (access_token&#x2c; refresh_token)
+url_path,/dash/token/{id}/session-script,Kali365 API call to POST request for Generate cookie injection script for browser
+url_path,/dash/token/{id}/share,Kali365 API call to POST request for Create share link (with optional label)
+url_path,/dash/token/{id}/shares,Kali365 API call to GET request for List existing share links
+url_path,/dash/token/{id}/unshare/{shareId},Kali365 API call to POST request for Revoke share link
+url_path,/dash/token/{id}/delete,Kali365 API call to POST request for Delete a token
+url_path,/dash/token/import,Kali365 API call to POST request for Bulk import token JSON
+url_path,/dash/tokens/delete-revoked,Kali365 API call to POST request for Clear all revoked tokens
+url_path,/dash/token/{id}/recheck,Kali365 API call to POST request for On-demand token liveness check — returns {status&#x2c; message}
+url_path,/dash/token/{id}/refresh,Kali365 API call to ? request for Force-refresh access token via stored refresh token
+url_path,/dash/token/{id}/service-token,Kali365 API call to POST request for Mint a service-scoped access token (Outlook/Admin/SharePoint/Graph)
+url_path,/dash/subscription/status,Kali365 API call to GET request for Subscription heartbeat used by OctoLink Sender
+url_path,/login,Kali365 API call to POST request for Alternate login endpoint used by OctoLink Sender
+url_path,/dash/lures,Kali365 API call to GET request for List lures
+url_path,/dash/lures/create,Kali365 API call to POST request for Create new lure (template&#x2c; flow_type&#x2c; capture_mode&#x2c; domain&#x2c; etc.)
+url_path,/dash/lures/delete/{id},Kali365 API call to POST request for Delete lure
+url_path,/dash/lures/html-attachment/{id},Kali365 API call to GET request for Download HTML attachment for lure
+url_path,/dash/domains,Kali365 API call to GET request for Available sending domains
+url_path,/dash/inbox/{tokenId}/send-job,Kali365 API call to POST request for Create send job from captured mailbox
+url_path,/dash/send-jobs,Kali365 API call to GET request for List send jobs
+url_path,/dash/send-jobs/{id},Kali365 API call to GET request for Send job details
+url_path,/dash/send-jobs/{id}/live,Kali365 API call to GET request for Real-time send progress
+url_path,/dash/send-jobs/{id}/pause,Kali365 API call to POST request for Pause send job
+url_path,/dash/send-jobs/{id}/resume,Kali365 API call to POST request for Resume send job
+url_path,/dash/send-jobs/{id}/cancel,Kali365 API call to POST request for Cancel send job
+url_path,/dash/send-jobs/{id}/delete,Kali365 API call to POST request for Delete send job
+url_path,/dash/contacts/{id}/harvest/start,Kali365 API call to POST request for Start email address harvest from victim mailbox
+url_path,/dash/contacts/{id}/harvest/status/{jobId},Kali365 API call to GET request for Poll harvest job status
+url_path,/dash/contacts/{id}/harvest/cancel/{jobId},Kali365 API call to POST request for Cancel harvest job
+url_path,/dash/contacts/verify-emails,Kali365 API call to POST request for Verify harvested email addresses
+url_path,/dash/contacts/classify-domains,Kali365 API call to POST request for Classify email domains (B2B targeting)
+url_path,/dash/keywords,Kali365 API call to GET request for List keyword monitors
+url_path,/dash/keywords/add,Kali365 API call to POST request for Add keyword monitor
+url_path,/dash/keywords/{id}/toggle,Kali365 API call to POST request for Enable/disable keyword
+url_path,/dash/keywords/{id}/delete,Kali365 API call to POST request for Delete keyword
+url_path,/dash/keywords/alerts,Kali365 API call to GET request for Fetch keyword alerts (limit param)
+url_path,/dash/keywords/alerts/clear,Kali365 API call to POST request for Clear all keyword alerts
+url_path,/dash/mfa/{tokenId}/org-users,Kali365 API call to GET request for Enumerate org users (requires admin token)
+url_path,/dash/mfa/scan,Kali365 API call to POST request for Scan captured tokens for admin privileges
+url_path,/dash/mfa/cached,Kali365 API call to GET request for Fetch cached scan results
+url_path,/dash/mfa/{tokenId}/user/{userId}/toggle,Kali365 API call to POST request for Enable/disable org user MFA
+url_path,/dash/mfa/{tokenId}/user/{userId}/reset-password,Kali365 API call to POST request for Reset org user password
+url_path,/dash/mfa/{id}/user/{uid}/add-rule,Kali365 API call to POST request for Add inbox rule to org user's mailbox (via admin token)
+url_path,/dash/mfa/{id}/user/{uid}/mailbox,Kali365 API call to GET request for Read org user's mailbox directly
+url_path,/dash/mfa/{id}/user/{uid}/message/{mid},Kali365 API call to GET request for Read specific message from org user's mailbox
+url_path,/dash/mfa/{id}/user/{uid}/rules,Kali365 API call to GET request for List inbox rules for org user
+url_path,/dash/mfa/{id}/user/{uid}/rules,Kali365 API call to POST request for Create inbox rule
+url_path,/dash/mfa/{id}/user/{uid}/rules/{rid},Kali365 API call to DELETE request for Delete inbox rule
+url_path,/dash/linked-domains,Kali365 API call to GET request for List linked domains
+url_path,/dash/linked-domains/add,Kali365 API call to POST request for Add domain (w/ CF zone ID&#x2c; API token&#x2c; Turnstile keys)
+url_path,/dash/linked-domains/turnstile/{id},Kali365 API call to POST request for Update Turnstile settings for domain
+url_path,/dash/linked-domains/delete/{id},Kali365 API call to POST request for Remove linked domain
+url_path,/dash/linked-domains/provision-ssl/{id},Kali365 API call to GET request for Provision SSL for linked domain
+url_path,/dash/linked-domains/verify/{id},Kali365 API call to GET request for Verify domain DNS propagation
+url_path,/dash/workers/list,Kali365 API call to GET request for List deployed Cloudflare Workers
+url_path,/dash/workers/credentials,Kali365 API call to GET request for List CF credentials (email&#x2c; API key&#x2c; zone)
+url_path,/dash/workers/credentials,Kali365 API call to POST request for Add Cloudflare credentials
+url_path,/dash/workers/credentials/{id}/delete,Kali365 API call to POST request for Delete CF credentials
+url_path,/dash/workers/{id}/delete,Kali365 API call to POST request for Delete CF Worker
+url_path,/dash/my-worker,Kali365 API call to GET request for Cloudflare Worker status
+url_path,/dash/my-worker/setup,Kali365 API call to POST request for Link CF account (body: {cf_email&#x2c; cf_api_key})
+url_path,/dash/my-worker/rotate,Kali365 API call to POST request for Rotate deployed worker
+url_path,/dash/my-worker/delete,Kali365 API call to POST request for Delete worker
+url_path,/dash/marketplace/credits,Kali365 API call to GET request for Credit balance
+url_path,/dash/marketplace/search-domain,Kali365 API call to POST request for Search available domains for purchase
+url_path,/dash/marketplace/buy-domain,Kali365 API call to POST request for Purchase domain (deducts credits)
+url_path,/dash/marketplace/my-domains,Kali365 API call to GET request for List purchased domains
+url_path,/dash/ai-template,Kali365 API call to POST request for AI-generated phishing email template
+url_path,/dash/html-to-pdf,Kali365 API call to POST request for Convert HTML email body to PDF attachment
+url_path,/dash/help-videos,Kali365 API call to GET request for Tutorial video list
+url_path,/dash/help-videos/upload,Kali365 API call to POST request for Upload tutorial video (multipart)
+url_path,/dash/help-videos/{id},Kali365 API call to DELETE request for Delete tutorial video
+url_path,/dash/outlook/{id},Kali365 API call to GET request for Server-rendered Outlook webmail proxy — opened via window.open
+url_path,/dash/bec/analyze,Kali365 API call to POST request for AI BEC analysis (body: {token_id&#x2c; message_id})
+url_path,/dash/bec/threads,Kali365 API call to GET request for List active BEC conversation threads
+url_path,/dash/bec/drafts,Kali365 API call to GET request for Fetch AI-drafted reply (param: thread_id)
+url_path,/dash/bec/regenerate,Kali365 API call to POST request for Regenerate draft (body: {thread_id&#x2c; instructions})
+url_path,/dash/bec/delete,Kali365 API call to POST request for Delete BEC thread (body: thread_id)
+url_path,/dash/exchange/tokens,Kali365 API call to GET request for List tokens with Exchange admin capability
+url_path,/dash/exchange/{id}/connectors,Kali365 API call to GET request for List Exchange mail connectors (param: type)
+url_path,/dash/exchange/{id}/connectors,Kali365 API call to POST request for Create mail connector (rogue SMTP relay injection)
+url_path,/dash/exchange/{id}/connectors,Kali365 API call to DELETE request for Delete connector (body: {identity&#x2c; type})
+url_path,/dash/exchange/{id}/rules,Kali365 API call to GET request for List Exchange transport (mail flow) rules
+url_path,/dash/exchange/{id}/rules,Kali365 API call to DELETE request for Delete transport rule (body: identity)
+url_path,/dash/exchange/{id}/domains,Kali365 API call to GET request for List tenant accepted domains
+url_path,/dash/exchange/{id}/mailboxes,Kali365 API call to GET request for Enumerate tenant mailboxes (param: q)
+url_path,/dash/exchange/{id}/dkim,Kali365 API call to GET request for Read DKIM signing config per domain
+url_path,/dash/exchange/{id}/dkim,Kali365 API call to POST request for Toggle DKIM signing (body: {domain&#x2c; enabled})
+url_path,/dash/exchange/{id}/org,Kali365 API call to GET request for Org-level Exchange configuration
+url_path,/dash/credentials/scan,Kali365 API call to POST request for Scan token mailboxes for credentials (body: {token_ids[]&#x2c; scan_all_active})
+url_path,/dash/credentials/status,Kali365 API call to GET request for Poll scan status (param: token_ids comma-separated)
+url_path,/dash/credentials/list,Kali365 API call to GET request for List found credentials (optional param: token_id)
+url_path,/dash/credentials/reveal,Kali365 API call to GET request for Retrieve plaintext credential value (param: id)
+url_path,/dash/credentials/delete,Kali365 API call to POST request for Delete credential record (body: id)
+url_path,/dash/highvalue,Kali365 API call to GET request for High-value email list (params: category&#x2c; limit)
+url_path,/dash/highvalue/stats,Kali365 API call to GET request for Count breakdown by category
+url_path,/dash/highvalue/read,Kali365 API call to POST request for Mark items read (body: ids[])
+url_path,/dash/highvalue/dismiss,Kali365 API call to POST request for Dismiss items (body: ids[])
+url_path,/dash/cloudflare/status,Kali365 API call to GET request for Linked CF account status
+url_path,/dash/cloudflare/link,Kali365 API call to POST request for Link Cloudflare account
+url_path,/dash/cloudflare/unlink,Kali365 API call to POST request for Unlink Cloudflare account
+url_path,/dash/cloudflare/zones,Kali365 API call to GET request for List zones on linked CF account
+url_path,/dash/cloudflare/add-domain,Kali365 API call to POST request for Add domain via linked CF account
+url_path,/dash/workflow,Kali365 API call to GET request for Victim pipeline — all tokens with current stage
+url_path,/dash/workflow/update,Kali365 API call to POST request for Move token to stage (body: {token_id&#x2c; stage&#x2c; notes})
+url_path,/dash/workflow/bulk,Kali365 API call to POST request for Bulk stage update (body: {token_ids[]&#x2c; stage})
+url_path,/api/recover-account,Kali365 API call to POST request for OxaPay account recovery (body: {username&#x2c; track_id})
+url_path,/api/extend-subscription,Kali365 API call to POST request for OxaPay subscription extension (body: {username&#x2c; track_id})
