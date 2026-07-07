@@ -1,0 +1,11 @@
+type,data,info
+description,https://www.huntress.com/blog/meta-business-manager-phishing, Indicators associated with a phishing threat leveraging Facebook business partner collaboration tools
+filename ,sites.google[.]com/view/profile1012,Google Sites lure URL embedded into the partner-request email text.
+domain,aussiecleaningservices[.]com,Early phishing landing page posing as a Meta Agency Partner Program page.
+ip,172.67.170.70,IPv4 resolution for aussiecleaningservices domain
+domain,api.goautolink[.]com,Earlier exfiltration domain used to receive stolen victim data.
+ip,104.21.84.100,IPv4 resolution for api.goautolink.com domain
+domain,Sw[.]run,"Cloudflare-hosted, attacker-controlled domain used to frame Netlify phishing pages."
+ip,172.67.192.180,IPv4 resolution for sw.run domain
+domain,businesshelpcenterpageid563252.netlify[.]app,Netlify-hosted phishing page used for the content-monetization variant.
+url,https://m[.]me/527366343784148,Facebook Messenger chat used by phishing bot
